@@ -1,5 +1,6 @@
 ﻿# Modified_Ion_Phaser
+ 
+DO : Replace this dist instead of node_modules/@ion-phaser/core/dist
 
-Error : https://stenciljs.com/docs/config-extras#enableimportinjection
+Why and how to fix : https://stenciljs.com/docs/config-extras#enableimportinjection
 
-Solution : Replace this dist instead of node_modules/@ion-phaser/core/dist
