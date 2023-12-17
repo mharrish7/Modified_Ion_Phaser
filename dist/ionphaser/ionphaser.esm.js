@@ -1,0 +1,1 @@
+import{p as e,b as t}from"./p-efb9ff79.js";export{s as setNonce}from"./p-efb9ff79.js";(()=>{const s=import.meta.url,t={};return""!==s&&(t.resourcesUrl=new URL(".",s).href),e(t)})().then((e=>t([["p-746132ee",[[0,"ion-phaser",{game:[1040],initialize:[4],getInstance:[64],destroy:[64]}]]]],e)));
